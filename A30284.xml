@@ -1,0 +1,312 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proofs of God's being and of the Scriptures divine original with twenty directions for the profitable reading of them : being the sum of several sermons desired by many hearers / by Daniel Burgess.</title>
+            <author>Burgess, Daniel, 1645-1713.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A30284</idno>
+            <idno type="STC">Wing B5711</idno>
+            <idno type="STC">ESTC R25953</idno>
+            <idno type="EEBO-CITATION">09300601</idno>
+            <idno type="OCLC">ocm 09300601</idno>
+            <idno type="VID">42658</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A30284)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42658)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1303:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proofs of God's being and of the Scriptures divine original with twenty directions for the profitable reading of them : being the sum of several sermons desired by many hearers / by Daniel Burgess.</title>
+                  <author>Burgess, Daniel, 1645-1713.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. Parkhurst,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect:  all after p. 16 lacking.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible --  Inspiration.</term>
+               <term>God --  Proof.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42658:1" rendition="simple:additions"/>
+            <p>PROOFS OF God's Being, AND OF The SCRIPTURES Divine Original.</p>
+            <p>With Twenty DIRECTIONS for the Profitable Reading of them.</p>
+            <p>Being the Sum of Several SERMONS, Deſired by many Hearers.</p>
+            <p>By <hi>DANIEL B<g ref="char:V">Ʋ</g>RGESS.</hi>
+            </p>
+            <q>
+               <p>The Fool hath ſaid in his Heart, There is no God, <bibl>
+                     <hi>Pſ. 14.1.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <q>
+               <p>Ye err, not knowing the Scriptures, <bibl>
+                     <hi>Mat. 22.29.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <q>
+               <p>He ſhall read in the Law all the Days of his Life, that he may learn to fear the Lord his God, <bibl>
+                     <hi>Deut. 17.19.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>T. Parkhurſt</hi> at the Bible and three Crowns in <hi>Cheapſide.</hi> 1697.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:42658:2"/>
+            <pb n="iii" facs="tcp:42658:2"/>
+            <head>To the moſt Honoured SOPHRONIA.</head>
+            <opener>
+               <salute>MADAM;</salute>
+            </opener>
+            <p>TO theſe <hi>ſmall Fragments,</hi> I inſcribe this <hi>proper Name</hi> of Yours. For which I have a great <hi>Example,</hi> and valuable <hi>Reaſons.</hi>
+            </p>
+            <p>My Example is <hi>John the Divine;</hi> who hath inſcribed <hi>a ſhort Collection</hi> of ſacred Learning to an <hi>Elect Lady.</hi> And, my Reaſons are theſe:</p>
+            <p>Your Ladiſhip hath been ſuch <hi>a Reader,</hi> that you are become <hi>a Judg</hi> of Books; as a grave Antient ſpeaks of a rare Lady in his Age. Neither is it queſtioned, but your <hi>religious Principle</hi> gives you <hi>a more than common Savour</hi> of my Divine Arguments. And, as confident I am, that <hi>Sophronia</hi>'s <hi>Name</hi> will <hi>attract</hi> Readers; and her <hi>holy Prayers</hi> may fetch <hi>a Bleſſing</hi> from Heaven on their Reading!</p>
+            <p>
+               <pb n="iv" facs="tcp:42658:3"/>Full well her Ladiſhip ſeeth the ſore need. Our Age being one very <hi>fruitful of Religi<g ref="char:EOLhyphen"/>ons, and barren of what is truly Religi<g ref="char:EOLhyphen"/>ous.</hi> One that has been contending ſo long for <hi>bare Garbs and Dreſſes of Religion,</hi> that it has very little left it more than <hi>Dreſſes, Garbs, and Modes of Religion.</hi>
+            </p>
+            <p>It is come to that paſs, that <hi>Fools</hi> fear not to ſhoot their <hi>Bolts.</hi> And, they who ſay it not with their <hi>Lips,</hi> do ſay in their <hi>Lives,</hi> that, <hi>There is no God.</hi> Our <hi>The<g ref="char:EOLhyphen"/>iſts</hi> be generally <hi>Atheiſts;</hi> and do ſhew plain<g ref="char:EOLhyphen"/>ly, that tho their <hi>Clamour</hi> be againſt <hi>Three Perſons,</hi> their <hi>Wrath and Spite</hi> is against <hi>One God!</hi> Inſomuch, that <hi>Nullitarians</hi> is a much more proper Name for them than <hi>Unitarians.</hi> Surely, <hi>Goats, whatever Milk they give, are Brutes.</hi> And, <hi>Panthers, tho they have wonderfully ſweet Scents, are very ill Creatures.</hi> Some of our <hi>Deiſts</hi> are <hi>open-handed to the Poor;</hi> one of them eſpe<g ref="char:EOLhyphen"/>cially, <hi>with his own or other folks Money.</hi> And, as <hi>Fauſtus Socinus</hi> before him, he is <hi>complaiſant and ſweet</hi> even to ſuch as de<g ref="char:EOLhyphen"/>teſt and oppoſe his Hereſy. Joining himſelf in <hi>the Society for Reformation of Manners.</hi> But, ſcarcely is there one Snake of them, whoſe Poiſon is not ſeen through his beſt painted
+<pb n="v" facs="tcp:42658:3"/>
+Skin! <hi>Immoral Poiſon,</hi> I mean; and ſuch Impurity, <hi>as ſpeaks no good will to Deity.</hi> And, it is worthy to be remembred, what a great Man, who was in danger of being taken in their Pit, did put to <hi>Socinus</hi> himſelf, and his Followers. <q>If your Doc<g ref="char:EOLhyphen"/>trine be the Truth,<note place="margin">Nullâ pietatis commendatione, &amp;c. Scrupuli ab excellenti Viro propoſiti, inter Oper. Socini.</note> how comes it to be ſo, that it is contended for by no Men of any good Name for Piety, any Praiſe for exemplary Life and Converſation? but the contrary they are, who ſet forth your Opinions.</q>
+            </p>
+            <p>The <hi>Holy Scriptures</hi> are <hi>complemented</hi> a little; but not <hi>reverenced</hi> at all, by <hi>the Many.</hi> The <hi>Socinian</hi> prefers his <hi>Light of Reaſon;</hi> as the <hi>Quaker</hi> doth his <hi>Light within.</hi> Which is but the ſame <hi>Farthing-Candle,</hi> differently denominated. And, not a few <hi>bold Sparks</hi> ſay plainly, <hi>They are but of Men, and not from Heaven.</hi>
+            </p>
+            <p>Surely, <hi>Sophronia,</hi> the <hi>Arch-Biſhop</hi> of <hi>Mentz</hi> did long ago ſpeak all their Hearts. At the <hi>Diet</hi> of <hi>Ausburg,</hi> in the Year <hi>1530,</hi> lighting on a Bible, and reading a while in it, he <hi>very honeſtly</hi> profeſſed, that <hi>he knew not well what Book it was, but he ſaw plainly that it made againſt the Papal way.</hi>
+            </p>
+            <p>
+               <pb n="vi" facs="tcp:42658:4"/>Miſerable is the manner, in which our <hi>common Proteſtants</hi> do read the Sacred Scripture. There is no doubt, but <hi>the Tranſgreſſion of it ſaith within</hi> Sophro<g ref="char:EOLhyphen"/>nia<hi>'s Heart, There is no Fear of God before ſo irreverent Eyes!</hi> And, her La<g ref="char:EOLhyphen"/>diſhip will not blame me, for ſending forth theſe <hi>Antidotes</hi> in days of ſuch <hi>Contagion.</hi> If it be my fault that I ſend forth no more, that Fault ſhall as ſoon be mended as it is made to appear. Indeed St. <hi>Auſtin</hi> ad<g ref="char:EOLhyphen"/>viſeth <hi>to much Writing</hi> in a time of <hi>much Corruption:</hi> that in the plenty of Books all Men may find what will beſt ſute their different Palats. But whither runs my Pen?</p>
+            <closer>
+               <salute>MADAM;</salute>
+               <g ref="char:V">Ʋ</g>nder the moſt ſenſible Obligation of your very ſingular Favours, I am ever praying, that <hi>great may be your Reward in Hea<g ref="char:EOLhyphen"/>ven.</hi> And, in all Sincerity, I ſhall conti<g ref="char:EOLhyphen"/>nue to be
+<signed>Your Ladiſhip's moſt Humble, and moſt Devoted Servant, <hi>DAN. BURGESS.</hi>
+               </signed>
+               <dateline>
+                  <hi>Bridges-ſtreet</hi> near <hi>Covent-garden,</hi> 
+                  <date>
+                     <hi>July 1. 1697.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="7" facs="tcp:42658:4"/>
+            <head>PROOFS of God's Being, and of the Scriptures Di<g ref="char:EOLhyphen"/>vine Origin. With DIRECTIONS for profitable Reading of the Scriptures.</head>
+            <div n="1" type="chapter">
+               <head>CHAP. I.</head>
+               <argument>
+                  <p>The Arguments by which the Holy Ghoſt refreſheth Souls, with the revived Senſe of <hi>God's Being,</hi> are principally theſe.</p>
+               </argument>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Arg. </seg>1</label> 
+                  <hi>MY Conſcience is as a thouſand Witneſſes to me, that there is a God.</hi> For, within me I have it ſitting as an <hi>In<g ref="char:EOLhyphen"/>ferior</hi> Judg, and ſtill acting in the Name of a <hi>Superior.</hi> Even a ſupreme one, and infinitely above all Mortal ones. <hi>When I do what is Evil,</hi> tho ever ſo ſecretly, and both without Mens Knowledg, and beyond their Power to Re<g ref="char:EOLhyphen"/>venge; this inward Judg puts me to Shame,
+<pb n="8" facs="tcp:42658:5"/>
+and fills me with Fear. Telling me, there is an All-ſeeing Eye that obſerves me, and as juſt a Hand that will puniſh me, ſooner or later. And, <hi>when I do what is good,</hi> tho it thunders, I am ſecure. Tho wild Men ſcoff, threaten, and even perſecute me for it, yet I am eaſy. This inward Judg telling me, there is one above all, who will ſee that <hi>no<g ref="char:EOLhyphen"/>thing ſhall harm me while I follow that which is Good.</hi>
+               </p>
+               <p>Whence, I wonder, roſe this <hi>ſubordinate</hi> Judg, if there be no <hi>ſupreme</hi> One?</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">A. </seg>2</label> 
+                  <hi>The <g ref="char:V">Ʋ</g>niverſal Conſent of all Nations witneſſeth to me, that there is a God.</hi> As Con<g ref="char:EOLhyphen"/>ſcience within me, ſo all the World before me, and round about me, does witneſs it. The Inhabitants of ſome Countries do wear no <hi>Clothes,</hi> and dwell in <hi>no Houſes;</hi> but they do own <hi>ſome God,</hi> all of them. And alas, when, or where met they all, to conſpire in this <hi>Creed?</hi> Or, what was it that moved them all to agree in it? In ſhort;</p>
+               <p>If there be no God above the Heavens, what has kept alive the Notion of one, through all Ages?</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">A. </seg>3</label> 
+                  <hi>The Confeſſion of his worſt Enemies wit<g ref="char:EOLhyphen"/>neſſeth to me, that there is a God.</hi> For, could ever any Atheiſt free himſelf from the Fear of a God? And, have not <hi>Cains, Balaams, Judaſſes, Neros, Julians,</hi> and the like, been made to <hi>ſee, feel,</hi> and <hi>confeſs</hi> God to be? It is true, <hi>Aelian</hi> obſerves, that uſually the <hi>Vul<g ref="char:EOLhyphen"/>gar
+<pb n="9" facs="tcp:42658:5"/>
+People</hi> were moſt deeply impreſſed with the Senſe of a God; and that <hi>learned Men</hi> made ſo ill uſe of their Art and Subtlety, as to diſpute themſelves into Uncertainty. But, it's ſure, their <hi>wicked Wits</hi> could never find a way to extinguiſh their <hi>tormenting Fears</hi> of an inviſible God and Judg. And,</p>
+               <p>If there be no God, how came all Men to be thus afraid of one? And, his Enemies to confeſs him?</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">A. </seg>4</label> 
+                  <hi>The Beginning of this material World witneſſes to me, there is a God.</hi> For, <hi>Teſtimony</hi> I have, that it was not from Eternity. <hi>Ari<g ref="char:EOLhyphen"/>ſtotle</hi> ſays, the Philoſophers before his time were of opinion, that it had a Beginning. And, better Witneſſes are not to ſeek. <hi>Rea<g ref="char:EOLhyphen"/>ſon</hi> alſo I have, which convinces me, that the World was not from Eternity; but was, at a certain time, made, as the <hi>Chaldeans,</hi> the <hi>Greeks,</hi> and <hi>Latin Poets,</hi> and <hi>Philoſophers,</hi> held it to be. For, could it make it ſelf? That is as impoſſible, as for a Houſe to build it ſelf. And, if it be ſuppoſed to have been from Eternity, why hear we of nothing that is <hi>ſix thouſand Years old?</hi> How comes it about, that it is not yet inhabited, all of it? yea, and over<g ref="char:EOLhyphen"/>ſtock'd too. But, if it was ever made, there muſt needs be a Maker; that is, a God.</p>
+               <p>If there be no <hi>God,</hi> how came there to be a <hi>World?</hi> If no <hi>Builder,</hi> how came there to be ſo large a <hi>City?</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">A. </seg>5</label> 
+                  <hi>The excellent Contrivance of all things
+<pb n="10" facs="tcp:42658:6"/>
+in this World, witneſſeth to me that there is a God.</hi> For, there is not one <hi>Blot</hi> in the whole <hi>Volume</hi> of this Work. In the <hi>Heavens,</hi> on the <hi>Earth,</hi> in the <hi>Sea,</hi> we have nothing but Wonders of Wiſdom. The Returns of <hi>Night</hi> and <hi>Day,</hi> of <hi>Winter</hi> and <hi>Summer;</hi> the Production of <hi>Minerals;</hi> the Growth of <hi>Plants;</hi> the Generation of <hi>Animals.</hi> And, the <hi>admirable Inſtinct</hi> by which they are all in<g ref="char:EOLhyphen"/>clined and enabled to preſerve themſelves and their Young. The <hi>apt Diſpoſition of the ſeveral Parts in all Bodies, for their proper <g ref="char:V">Ʋ</g>ſes.</hi> How aſtoniſhing are theſe, all? And, unto what Cauſe can they be aſcribed?</p>
+               <p>If there be no <hi>infinitely wiſe</hi> God, from whence roſe all this <hi>Exactneſs?</hi> From whence is this ſo God-like Work? Regular Work, and worthy of a God, <hi>whoſe Way is perfect?</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">A. </seg>6</label> 
+                  <hi>The Human Nature eſpecially witneſſeth to me, that there is a God.</hi> For, ſuch a <hi>Son</hi> could never have been without ſuch a <hi>Father.</hi> What a Body is Man's? <hi>Galen,</hi> a Man little inclined to Religion, was driven to acknow<g ref="char:EOLhyphen"/>ledg a Deity by his conſideration of this Bo<g ref="char:EOLhyphen"/>dy. Of Parts, ſo <hi>numerous, various, beauti<g ref="char:EOLhyphen"/>ful,</hi> and <hi>durable.</hi> And, almoſt all the inter<g ref="char:EOLhyphen"/>nal ones unknown to the <hi>Fathers of our Fleſh.</hi> And, as for the Soul, what is like it? What a <hi>Mind,</hi> what a <hi>Memory,</hi> what a <hi>Conſci<g ref="char:EOLhyphen"/>ence,</hi> &amp;c. has it? In a word; what a <hi>Princi<g ref="char:EOLhyphen"/>ple</hi> hath it, <hi>inclining it to ſeek well-being?</hi> What another <hi>Faculty, to judg of the Nature of things,</hi>
+                  <pb n="11" facs="tcp:42658:6"/>
+fit to ſerve him, or to diſſerve him? And, <hi>another, to chuſe and proſecute things</hi> according<g ref="char:EOLhyphen"/>ly? How like is the Human Spirit to the <hi>Fa<g ref="char:EOLhyphen"/>ther of Spirits?</hi> And, what is to be thought of <hi>the inexplicable <g ref="char:V">Ʋ</g>nion betwixt our Soul and Body?</hi> Our thinking Spirit, and our ſhining Clay.</p>
+               <p>If there be no <hi>God,</hi> how came there to be ſuch a thing as <hi>Man?</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">A. </seg>7</label> 
+                  <hi>The Continuance and the Quietneſs of the things of this World, witneſſeth to me that there is a God.</hi> For, what is it that holds the <hi>Heavens</hi> above us, the <hi>Earth</hi> under us, the <hi>Life</hi> in us? Why are not all <hi>the Lamps of Hea<g ref="char:EOLhyphen"/>ven</hi> burnt out? Why is not the <hi>Earth,</hi> that hangs upon nothing, long ago fallen down? How is it that not one <hi>Species of Creature</hi> is yet loſt? That of the vaſt Army of them, none do ſo <hi>mutiny</hi> as to deſtroy them that are moſt contrary to them? That the <hi>Fire</hi> doth not make the <hi>Air</hi> too thin for our Uſe; boil and conſume the <hi>Water;</hi> ſcorch, and make a Brick of the <hi>Earth?</hi> That the <hi>Water</hi> doth not drown the Earth and all things on it? That the <hi>Earth</hi> doth not drink up the Water?</p>
+               <p>If there be not a <hi>God, and Lord of Hoſts,</hi> how ſtands the World, and the Hoſt of jar<g ref="char:EOLhyphen"/>ring Creatures keep their Ranks and Orders, ſo ſweetly as we ſee?</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">A. </seg>8</label> 
+                  <hi>The Works of Providence concerning Mankind do witneſs to me, there is a God.</hi> Both the <hi>common ones,</hi> which accompany vertuous Actions, and vicious ones, with Rewards and
+<pb n="12" facs="tcp:42658:7"/>
+Puniſhments. Theſe make it plain, that <hi>there is a God that judgeth in the Earth.</hi> Yet highly reaſonable it ſeems to me, that a Supreme Ruler and abſolute Soveraign ſhould ſome<g ref="char:EOLhyphen"/>times try his Servants by Hardſhips; and with long ſuffering, endure his Enemies to inſult for a while. Inſomuch, that the very <hi>Proſperity of Sinners, and Adverſity of good Men,</hi> is alſo an Argument to me, that there is a God who governs all things. Again, the extraordinary Diſpenſations of Providence; in delivering of <hi>Joſephs</hi> out of Priſons, and <hi>Daniels</hi> out of Lions Dens, and <hi>young Saints</hi> out of fiery Furnaces. And, in raining Fire from Heaven upon <hi>Sodomites,</hi> ſtriking dead an <hi>Ananias</hi> and <hi>Saphira,</hi> ſmiting a ſwelling <hi>Herod</hi> with an Angel, and the like; theſe do proclaim aloud, that there is <hi>one in the Hea<g ref="char:EOLhyphen"/>vens who neither ſlumbers nor ſleeps.</hi>
+               </p>
+               <p>If there be no God, how is it that ordina<g ref="char:EOLhyphen"/>rily <hi>it goes well with the Righteous.</hi> And <hi>they who ſay there is no God, have their Sorrows multi<g ref="char:EOLhyphen"/>plied?</hi> How is it, that Wonders are wrought for Saints, and againſt Sinners?</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">A. </seg>9</label> 
+                  <hi>Miracles do witneſs unto me, that there is a God.</hi> For, can theſe be wrought, with<g ref="char:EOLhyphen"/>out a Power ſuperior to any that Mortals can pretend unto?</p>
+               <p>If there be no Almighty God, how were ever the <hi>Dead</hi> raiſed? The <hi>Winds and Seas</hi> checked? The <hi>Sun</hi> made to ſtand ſtill, and to go back?</p>
+               <p>
+                  <pb n="13" facs="tcp:42658:7"/>
+                  <label type="milestone">
+                     <seg type="milestoneunit">A. </seg>10</label> 
+                  <hi>Prophecies Fulfilment witneſſeth to me, that there is a God.</hi> For, who but an <hi>Omni<g ref="char:EOLhyphen"/>ſcient</hi> God can poſſibly foreknow ſuch <hi>future things,</hi> as in their Circumſtances are <hi>moſt con<g ref="char:EOLhyphen"/>tingent?</hi> But of ſuch there have been many plain Predictions, at very many years diſtance; as the <hi>Heathen</hi> Hiſtory, as well as <hi>Chriſtian,</hi> doth atteſt. Thus <hi>Cicero</hi> of old did argue; <hi>there being ſuch a thing as PROPHECY, there muſt needs be a Deity!</hi>
+               </p>
+               <p>If there be no God, how came ſo many future things to be foretold?</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">A. </seg>11</label> 
+                  <hi>Particularly, the State of the Jewiſh Nation witneſſeth to me that there is a God.</hi> If not, by what means hath it been with that People for ſixteen hundred Years, as it was foretold? And, ſo as it never was with any People ſince the beginning of Time. Out of their Land they have been driven; particu<g ref="char:EOLhyphen"/>lar Place of abode, as a Nation, they have had none. Scattered over all the habitable World, they have been: And, ſcorned and hated in every place. Not mixed with other Nations, ſo as to be loſt among them; but ſtill kept up as a diſtinct People; kept as a ſtanding Memorial to the World, of the Di<g ref="char:EOLhyphen"/>vine Wrath for their Rejection of the <hi>Salva<g ref="char:EOLhyphen"/>tion of God, and Conſolation of</hi> Iſrael.</p>
+               <p>If there be no God, whoſe <hi>Wrath</hi> is it that is <hi>come upon the Jews to the uttermoſt?</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">A. </seg>12</label> 
+                  <hi>The being of ſuch a Book in the World as that of the Scripture of Old and New Teſta<g ref="char:EOLhyphen"/>ment,
+<pb n="14" facs="tcp:42658:8"/>
+witneſſeth to me that there is a God.</hi> For, if there be no God, who made that Book; which is as much more wonderful than <hi>Mens Books,</hi> as the Works of the Creation are more wonderful than <hi>Mens Works:</hi> I can as ſoon believe that a <hi>poor Carpenter</hi> raiſed the <hi>Roof of the Heavens,</hi> as that any <hi>Mortal</hi> ever endited the <hi>Holy Scriptures.</hi> The <hi>Deſign</hi> of them is too glorious, the <hi>Doctrine</hi> too ſub<g ref="char:EOLhyphen"/>lime, the <hi>Precepts</hi> too wiſe and too impartial, the <hi>Threats</hi> too awful, the <hi>Promiſes</hi> too rich, for Creature to invent.</p>
+               <p>If there be no God, what Original hath that Godlike Word?</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>CHAP. II.</head>
+               <argument>
+                  <p>The Arguments by which the Holy Spirit doth confirm his Servants Minds in the Perſwaſion that the Scripture of Old and New Teſtament is the Word of God, are principally, theſe:</p>
+               </argument>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Arg. </seg>1</label> 
+                  <hi>ITS Antiquity commends it to me for God's Book.</hi> Novelty might occa<g ref="char:EOLhyphen"/>ſion Jealouſy. But reaſonable it ſeems, that, pleaſing to have a Book in the World, God ſhould order his own Book to have the Ho<g ref="char:EOLhyphen"/>nour of being the firſt.</p>
+               <p>And, this <hi>his Book</hi> was<g ref="char:punc">▪</g> ſurely the Firſt in
+<pb n="15" facs="tcp:42658:8"/>
+the World; as the Jews, <hi>his People</hi> of old, were the firſt Nation. <hi>Homer</hi>'s Writings, Chro<g ref="char:EOLhyphen"/>nologers make ſix hundred Years after <hi>Mo<g ref="char:EOLhyphen"/>ſes;</hi> and <hi>Orpheus</hi> his Writings, five hundred.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">A. </seg>2</label> 
+                  <hi>Its Penmens Sanctity doth commend it to me for God's Book.</hi> For, of <hi>unqueſtionable Holineſs</hi> they were, all of them. Humbly they confeſs their own Faults; and imparti<g ref="char:EOLhyphen"/>ally tell the Faults of their deareſt Friends. Powerfully they preach <hi>all manner of Holy Con<g ref="char:EOLhyphen"/>verſation.</hi> Teaching, that <hi>of every idle Word there muſt be given an account one day.</hi> And, as they preached, they lived. <hi>A ſtraiter Gate than the World's, they entred; and a narrower Way they walked in.</hi> Of many things <hi>lawful</hi> they denied themſelves. And of <hi>the common Enjoyments of Mankind,</hi> many, were deprived. Bonds and Afflictions abiding them, for their Doctrine. Doctrine, which expoſed them to nothing in the World, but Pains active and paſſive.</p>
+               <p>What then, beſide the Spirit of God acting them, could poſſibly make them ſo to write? What, but the Holy Spirit kindling in them a Fire which they could not ſuppreſs? Ex<g ref="char:EOLhyphen"/>preſt in that Saying, <hi>We cannot but ſpeak the things which we have ſeen and heard!</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">A. </seg>3</label> 
+                  <hi>The vaſt Diſtance of theſe holy and har<g ref="char:EOLhyphen"/>monious Writers of the Scripture, doth commend it to me for God's Book.</hi> The Diſtance of them from one another, as to <hi>Place,</hi> and as to <hi>Time.</hi> For they were of <hi>diſtant Countries,</hi>
+                  <pb n="16" facs="tcp:42658:9"/>
+many of them. And lived at very <hi>diſtant Ages.</hi> From the firſt Writing of <hi>Moſes</hi> to the laſt of St. <hi>John,</hi> were about two thouſand Years. Tho <hi>all their Writings ſeem to be drawn but by the different Pens of one and the ſame Writer.</hi>
+               </p>
+               <p>Inſomuch, that it's utterly impoſſible that they ſhould have ever conſpired together to deceive the World. Or ſhould have wrote ſo harmoniouſly, but that they were acted all by the ſame Spirit of harmonious Truth and Goodneſs.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">A. </seg>4</label> 
+                  <hi>The Miracles wherewith it has been con<g ref="char:EOLhyphen"/>firmed, do further commend it to me for God's Book. Moſes</hi> wrought about ſeventy ſix. The <hi>Prophets</hi> in the time of the firſt Temple, wrought about an hundred and fifty. Our <hi>Saviour</hi> wrought innumerable. And, the <hi>Apoſtles</hi> an abundance. And ſuch, that the moſt ſpiteful Enemies could never detect any the leaſt Impoſture in them, but were forced to confeſs the Evidence.</p>
+               <p>What then? Can any but God's Almighty Power work Miracles? Or, would that work them to confirm Cheats? If not, the Holy Scripture muſt be God's own Book.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">A. </seg>5</label> 
+                  <hi>The Accompliſhment of its Prophecies doth commend it to me for God's Book.</hi> From its firſt publiſhing, it hath ever been <hi>a Prognoſti<g ref="char:EOLhyphen"/>cation of things to come.</hi> And, as the Events have ſhown, an <hi>infallible</hi> one. Yea, and an <hi>univerſal</hi> one. For, nothing good or bad be<g ref="char:EOLhyphen"/>fel,</p>
+               <gap reason="missing" extent="1+ pages">
+                  <desc>〈1… pages missing〉</desc>
+               </gap>
+            </div>
+            <pb facs="tcp:42658:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
